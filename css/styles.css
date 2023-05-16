@@ -1,0 +1,74 @@
+:root {
+  --blue: #0e497b;
+  --gold: #e1c88f;
+}
+.container--hero.hero--not-slider.hero--banner.background--media .container .hero-content .container--content .title{
+  font-weight: bold;
+  font-size: 4rem;
+}
+.hero-content p{
+  font-size: 2.5rem;
+  color: #fff;
+}
+.section--tabs .container--tabs nav .nav-link{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.section--tabs .container--tabs nav .nav-link.active{
+  font-weight: bold;
+}
+.section--tabs .container--tabs nav .nav-link.active::after{
+  background: var(--gold) !important;
+}
+.section--hero hgroup::after{
+  content: "";
+  display: block;
+  width: 150px;
+  height: 8px;
+  background: var(--gold);
+  margin: 20px auto;
+}
+.accordion .card-header button,
+.section .title{
+  text-transform: uppercase;
+  color: var(--blue) !important;
+  font-weight: bold;
+}
+.accordion .card-header button{
+  font-size: 2rem;
+}
+.section--team .container--title h2::after,
+.section .title::after{
+  content: "";
+  display: block;
+  width: 100px;
+  height: 4px;
+  background: var(--gold);
+  margin: 20px 0;
+}
+.section--team .container--title{
+ width: 1024px;
+ max-width: 100%;
+}
+.section--team .container--title h2{
+  width: 700px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.section--team .container--title h2::after,
+.text--center .container--title .title::after{
+  margin: 20px auto;
+}
+.tab-pane h3{
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--blue);
+  border-bottom: 1px solid var(--gold);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+.section--team.section--team-col .col-sm-8{
+  text-align: center;
+}
