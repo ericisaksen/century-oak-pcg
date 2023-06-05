@@ -41,7 +41,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="mode--dark">
+				<div class="mode--light">
 					<div class="section section--tabs text--center">
 						<div class="container">
 							<div class="row container--title">
@@ -61,53 +61,32 @@
 							</nav>
 							<div class="tab-content container--content">
 								<div aria-labelledby="tab-nav-1-g1" class="tab-pane fade show active" id="tab-content-1-g1" role="tabpanel">
-									<h3 class="h2 title-tab">Financial Freedom</h3>
 									<p>There is no greater joy than in knowing you’re going to be okay. We help our clients figure out what “financial freedom” means to them and build a plan to help them achieve it. Everyone’s definition looks a little different, which is why developing a personalized plan is so important.</p>
 								</div>
 								<div aria-labelledby="tab-nav-2-g1" class="tab-pane fade show" id="tab-content-2-g1" role="tabpanel">
-									<h3 class="h2 title-tab">Peace of Mind</h3>
 									<p>When you have a plan in place and a partner to guide you along the way, you can finally experience the peace of mind that comes with being prepared. We want you to sleep better at night and get back to doing more of what you love.</p>
 								</div>
 								<div aria-labelledby="tab-nav-3-g1" class="tab-pane fade show" id="tab-content-3-g1" role="tabpanel">
-									<h3 class="h2 title-tab">Meaningful Impact</h3>
 									<p>Many of our clients are called to be good stewards of their wealth. Whether it’s helping your family build a solid financial foundation or giving back to your community, we’re here to help fulfill your wishes and honor your intentions.</p>
 								</div>
 							</div>
 						</div>
-						<div aria-hidden="true" class="container container--accordion" style="display: none;" tabindex="-1">
-							<div class="accordion" id="accordionBodyTabs1-gp-1">
-								<div class="card">
-									<div class="card-header" id="accordionTabHeader-1-gp-1">
-										<span class="mb-0 title-accordion"><button aria-controls="accordionTabBody-1-gp-1" aria-expanded="true" class="btn-link btn-block text-left" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionTabBody-1-gp-1" data-toggle="collapse" type="button"><span class="mb-0 title-accordion">Tab Example 1 <span class="collapse-icon"></span></span></button></span>
-									</div>
-									<div aria-labelledby="accordionTabHeader-1-gp-1" class="collapse show" data-parent="#accordionBodyTabs1-gp-1" id="accordionTabBody-1-gp-1">
-										<div class="card-body">
-											<h3 class="h2 title-tab">Tab Content 1</h3>
-											<p>Text</p>
-										</div>
-									</div>
+					</div>
+				</div>
+				<div class="mode--light column-reverse">
+					<div class="section section--textBanner section--textBanner-cta-2col section--textBanner-cta-2col-img"><div class="container pb-0 pt-0 demo">
+						<div class="container" style="padding: 0;">
+							<div class="row">
+								<div class="col-md-4 container--media">
+									<img src="/images/istock-494994032.jpg" alt="" loading="lazy" role="presentation">
 								</div>
-								<div class="card">
-									<div class="card-header" id="accordionTabHeader-2-gp-1">
-										<span class="mb-0 title-accordion"><button aria-controls="accordionTabBody-2-gp-1" aria-expanded="false" class="btn-link btn-block text-left collapsed" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionTabBody-2-gp-1" data-toggle="collapse" type="button"><span class="mb-0 title-accordion">Tab Example 2 <span class="collapse-icon"></span></span></button></span>
-									</div>
-									<div aria-labelledby="accordionTabHeader-2-gp-1" class="collapse" data-parent="#accordionBodyTabs1-gp-1" id="accordionTabBody-2-gp-1">
-										<div class="card-body">
-											<h3 class="h2 title-tab">Tab Content 2</h3>
-											<p>Text 2</p>
-										</div>
-									</div>
-								</div>
-								<div class="card">
-									<div class="card-header" id="accordionTabHeader-3-gp-1">
-										<span class="mb-0 title-accordion"><button aria-controls="accordionTabBody-3-gp-1" aria-expanded="false" class="btn-link btn-block text-left collapsed" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionTabBody-3-gp-1" data-toggle="collapse" type="button"><span class="mb-0 title-accordion">Tab Example 3 <span class="collapse-icon"></span></span></button></span>
-									</div>
-									<div aria-labelledby="accordionTabHeader-3-gp-1" class="collapse" data-parent="#accordionBodyTabs1-gp-1" id="accordionTabBody-3-gp-1">
-										<div class="card-body">
-											<h3 class="h2 title-tab">Tab Content 3</h3>
-											<p>Text 3</p>
-										</div>
-									</div>
+								<div class="col-md-8 container--content">
+									<hgroup>
+										<h2 class="title">Our Expertise</h2>
+									</hgroup>
+									<p>You have questions about your wealth, whether it’s “Will I have enough to live comfortably in retirement?” or “How can I protect my family financially?” When you partner with a forward-focused advisor, you get answers. More importantly, you get clarity and guidance on how to achieve your goals.</p>
+									<p>We’ve developed a comprehensive suite of services that are designed to address every facet of your wealth, so you can sleep better knowing your and your family’s financial future is well-cared for.</p>
+									<a href="services.php" class="btn link" data-a11y="btn" aria-label="learn more about Custom Title"><span>Learn More</span></a>
 								</div>
 							</div>
 						</div>

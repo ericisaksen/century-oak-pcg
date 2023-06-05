@@ -29,10 +29,8 @@
             <div class="section section--textBanner section--textBanner-cta-2col section--textBanner-cta-2col-img">
               <div class="container">
                 <div class="row">
-                  <div class="col-md-4 container--media">
-                    <img alt="" role="presentation" src="/images/placeholder.jpg">
-                  </div>
-                  <div class="col-md-8 container--content">
+                  <div class="col-md-6 container--media"><img alt="" role="presentation" src="/images/istock-981180316.jpg"></div>
+                  <div class="col-md-6 container--content">
                     <p>To be the best partners we can be to our clients, we proudly align ourselves with Northwestern Mutual, a Fortune 100 company with a longstanding history of exceptional service. This alliance gives our team access to the powerful tools, strategies, and networks only previously available to large institutions. With these additional resources, we’re able to address every aspect of our clients’ wealth, from preparing for retirement to building a meaningful legacy through their estate plan.</p>
                     <p><a href="https://northwesternmutual.com/" target="_blank">About Northwestern Mutual</a></p>
                     <p><a href="pcg.php">Private Client Group</a></p>

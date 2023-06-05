@@ -1,7 +1,8 @@
 <nav class="navbar navbar-expand-xl"><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mainNavigation" aria-controls="mainNavigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
   <div class="navbar-header">
     <div class="navbar-advisor">
-    <span class="advisor-name ">Century Oak Private Wealth</span>
+      <img src="/images/temp-logo.png" alt="" style="width: 300px;" role="presentation">
+    <span class="advisor-name" style="display: none;">Century Oak Private Wealth</span>
     </div>
     <a class="navbar-brand navbar-brand--img medium" target="_self" href="index.htm">
       <img src="/images/permanent/pcg-logo-gold.png" class="d-inline-block" alt="Northwestern Mutual Private Client Group Logo" aria-hidden="true">
@@ -19,19 +20,9 @@
           </svg>
         </a>
         <div class="dropdown-menu" aria-labelledby="mainNavigationDropdown2">
-          <a class="dropdown-item" href="community.php" target="">Community</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="mainNavigationDropdown9" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <span class="text">Our People</span>
-          <svg aria-hidden="true" focusable="false">
-            <use href="#svg-carrot"></use>
-          </svg>
-        </a>
-        <div class="dropdown-menu" aria-labelledby="mainNavigationDropdown9">
-          <a class="dropdown-item" href="team.php" target="">Team</a>
+        <a class="dropdown-item" href="team.php" target="">Our People</a>
           <a class="dropdown-item" href="alliances.php" target="">Strategic Alliances</a>
+          <a class="dropdown-item" href="community.php" target="">Community Involvement</a>
         </div>
       </li>
       <li class="nav-item dropdown">

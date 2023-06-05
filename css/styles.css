@@ -1,3 +1,6 @@
+
+@import url('https://fonts.cdnfonts.com/css/guardian-sans');
+
 :root {
   --blue: #0e497b;
   --gold: #e1c88f;
@@ -71,4 +74,11 @@
 }
 .section--team.section--team-col .col-sm-8{
   text-align: center;
+}
+.treatment-a h1::after,
+.treatment-a h2::after,
+.treatment-a h3::after,
+.treatment-a h4::after,
+.treatment-a p.title::after{
+  display: none !important;
 }

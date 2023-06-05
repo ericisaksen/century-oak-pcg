@@ -105,7 +105,7 @@
                     <div class="row">
                       <div class="col-md-12">
                         <hgroup>
-                          <h1 class="title lg-margin-bottom">TEAM</h1>
+                          <h1 class="title lg-margin-bottom">OUR TEAM</h1>
                         </hgroup>
                       </div>
                     </div>

@@ -24,19 +24,7 @@
               </div>
             </div>
           </div>
-          <div class="mode--light">
-            <div class="section converter--base">
-              <div class="container">
-                <div class="row container--title">
-                  <div class="col-sm-8">
-                    <p class="lead">You have questions about your wealth, whether it’s “Will I have enough to live comfortably in retirement?” or “How can I protect my family financially?” When you partner with a forward-focused advisor, you get answers. More importantly, you get clarity and guidance on how to achieve your goals.</p>
-                    <p class="lead">We’ve developed a comprehensive suite of services that are designed to address every facet of your wealth, so you can sleep better knowing your and your family’s financial future is well-cared for.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="mode--primary">
+          <div class="mode--dark">
             <div class="section section--insights section--insights-2col">
               <div class="container">
                 <div class="row container--title">

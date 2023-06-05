@@ -14,7 +14,7 @@
                     <div class="row">
                       <div class="col-md-12">
                         <hgroup>
-                          <h1 class="title lg-margin-bottom">COMMUNITY</h1>
+                          <h1 class="title lg-margin-bottom">COMMUNITY INVOLVEMENT</h1>
                         </hgroup>
                       </div>
                     </div>
@@ -29,8 +29,7 @@
               <div class="container">
                 <div class="row container--title">
                   <div class="col-sm-8">
-                    <p class="lead">A big part of who we are is the impact we’re able to make on our community. We always encourage our clients to live their lives with a giving heart because we understand first-hand the fulfillment and joy of doing so. Donating with both our time and resources is important to us as individuals and as a team.</p>
-                    <p>Our firm proudly supports several foundations and charities within our local community including:</p>
+                    <p class="lead">A big part of who we are is the impact we’re able to make on our community. We always encourage our clients to live their lives with a giving heart because we understand first-hand the fulfillment and joy of doing so. Donating with both our time and resources is important to us as individuals and as a team. Our firm proudly supports several foundations and charities within our local community including:</p>
                   </div>
                 </div>
                 <div class="accordion" id="accordionBodyExample">
