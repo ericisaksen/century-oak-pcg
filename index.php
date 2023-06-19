@@ -7,7 +7,7 @@
 				<!--B-V-T-OptCTA--><!--HeroBannerRootV2-->
 				<a id="HeroBannerRootV2-92c3aefa-f04a-4c49-813f-d7c590dc13ac"></a>
 				<div class="section--hero">
-					<div class="container--hero hero--not-slider hero--banner background--media text--center" style="background-image: url('/images/iStock-1269899213.jpg')">
+					<div class="container--hero hero--not-slider hero--banner background--media text--center" style="background-image: url('/images/istock-649725910.jpg')">
 						<div class="container">
 							<div class="hero-content">
 								<div class="container--content">
@@ -29,7 +29,7 @@
 						<div class="container" style="padding: 0;">
 							<div class="row">
 								<div class="col-md-4 container--media">
-									<img src="/images/iStock-157590659.jpg" alt="" loading="lazy" role="presentation">
+									<img src="/images/istock-494994032.jpg" alt="" loading="lazy" role="presentation">
 								</div>
 								<div class="col-md-8 container--content">
 									<hgroup>
@@ -78,7 +78,7 @@
 						<div class="container" style="padding: 0;">
 							<div class="row">
 								<div class="col-md-4 container--media">
-									<img src="/images/istock-494994032.jpg" alt="" loading="lazy" role="presentation">
+									<img src="/images/iStock-157590659.jpg" alt="" loading="lazy" role="presentation">
 								</div>
 								<div class="col-md-8 container--content">
 									<hgroup>

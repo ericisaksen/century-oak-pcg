@@ -36,21 +36,31 @@
                   <!-- Parent ID -->
                   <div class="card">
                     <div class="card-header" id="accordionHeader-1">
-                      <h3 class="mb-0 title-accordion"><button aria-controls="accordionBody-1" aria-expanded="true" class="btn-link btn-block text-left" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionBody-1" data-toggle="collapse" type="button">Insert Title <span class="collapse-icon"></span></button></h3>
+                      <h3 class="mb-0 title-accordion"><button aria-controls="accordionBody-1" aria-expanded="true" class="btn-link btn-block text-left" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionBody-1" data-toggle="collapse" type="button">Fore! Houston Golf Tournatment <span class="collapse-icon"></span></button></h3>
                     </div>
                     <div aria-labelledby="accordionHeader-1" class="container--content collapse show" data-parent="#accordionBodyExample" id="accordionBody-1">
                       <div class="card-body">
-                        <p>Officia adipisicing anim veniam aliquip. Lorem irure eiusmod nulla officia ullamco Lorem nostrud ullamco ullamco ex do. Ut anim anim adipisicing eu dolor duis magna voluptate aliqua amet et sit. Commodo magna et non eiusmod irure exercitation velit dolor amet eiusmod fugiat duis. Officia sunt in in do consectetur magna laborum pariatur proident labore tempor. Consectetur eiusmod aliqua anim est sunt duis. Adipisicing occaecat minim est velit pariatur officia enim nisi mollit. Veniam voluptate ea qui voluptate pariatur consectetur nisi commodo. Ullamco proident esse anim in sit eu voluptate in qui anim dolore duis laborum.</p>
+                        <p>The Fore! Houston Charity Golf Tournament is held once a year with the goal of raising funds and awareness for Houston area organizations dedicated to those struggling with cancer. Specifically, the tournament has generated new financial resources each year for&nbsp;<a href="https://periwinklefoundation.org/" target="_blank">The Periwinkle Foundation</a>&nbsp;as well as the&nbsp;<a href="https://www.pushupfoundationhouston.org/" target="_blank">Push Up Foundation Houston</a>. The tournament is a four-golfer scramble format with the winning team claiming the ever-prized &ldquo;Stadia Cup.&rdquo; The day of the event also includes live and silent auctions, entertainment, local celebrities along with food and drink.</p>
                       </div>
                     </div>
                   </div>
                   <div class="card">
                     <div class="card-header" id="accordionHeader-2">
-                      <h3 class="mb-0 title-accordion"><button aria-controls="accordionBody-2" aria-expanded="false" class="btn-link btn-block text-left collapsed" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionBody-2" data-toggle="collapse" type="button">Insert Title <span class="collapse-icon"></span></button></h3>
+                      <h3 class="mb-0 title-accordion"><button aria-controls="accordionBody-2" aria-expanded="false" class="btn-link btn-block text-left collapsed" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionBody-2" data-toggle="collapse" type="button">Push Up Foundation Houston<span class="collapse-icon"></span></button></h3>
                     </div>
                     <div aria-labelledby="accordionHeader-2" class="container--content collapse" data-parent="#accordionBodyExample" id="accordionBody-2">
                       <div class="card-body">
-                        <p>Lorem ad cupidatat laboris nulla voluptate in tempor officia velit sint nostrud aliquip. Enim fugiat exercitation officia nulla consequat cillum ad aute laborum. Consequat deserunt velit amet nulla anim veniam aliquip est aliquip exercitation consequat. Mollit esse sint ullamco dolore tempor duis ad eiusmod nulla exercitation ex ea qui. Aliquip ullamco cupidatat aliquip eu fugiat qui laboris officia labore aute. Dolore excepteur esse deserunt est elit non elit laboris voluptate deserunt. Ipsum excepteur ullamco laboris enim. Ipsum tempor commodo fugiat aute adipisicing incididunt eiusmod. Laboris ut minim nisi labore in officia. Laborum velit amet mollit ea irure adipisicing laboris sint amet duis pariatur.</p>
+                        <p>Push Up Foundation Houston is an organization formed to spread the awareness of colorectal cancer. Colorectal cancer is the third most diagnosed cancer in both men and women. We are using this foundation to inform people about the importance of getting a colonoscopy before age 45 and detecting early warning signs.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="accordionHeader-2">
+                      <h3 class="mb-0 title-accordion"><button aria-controls="accordionBody-2" aria-expanded="false" class="btn-link btn-block text-left collapsed" data-alt-val="" data-img-val="../assets/img/half-text-half-img.jpg" data-target="#accordionBody-2" data-toggle="collapse" type="button">The Periwinkle Foundation<span class="collapse-icon"></span></button></h3>
+                    </div>
+                    <div aria-labelledby="accordionHeader-2" class="container--content collapse" data-parent="#accordionBodyExample" id="accordionBody-2">
+                      <div class="card-body">
+                        <p>Providing a community of healing for children with cancer and other life-threatening illnesses through emotionally-healing camps, arts, and survivor programs.</p>
                       </div>
                     </div>
                   </div>

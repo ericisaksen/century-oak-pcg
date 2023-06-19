@@ -20,7 +20,7 @@
           </svg>
         </a>
         <div class="dropdown-menu" aria-labelledby="mainNavigationDropdown2">
-        <a class="dropdown-item" href="team.php" target="">Our People</a>
+        <a class="dropdown-item" href="team.php" target="">Our Team</a>
           <a class="dropdown-item" href="alliances.php" target="">Strategic Alliances</a>
           <a class="dropdown-item" href="community.php" target="">Community Involvement</a>
         </div>
